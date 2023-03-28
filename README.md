@@ -1,3 +1,44 @@
+# Answer of the React Assignment questions
+
+
+2. List five significant features of React
+
+	JSX;
+	VIRTUAL DOM;
+	Allow us to create components;
+	Perfomance;
+	React Props;
+
+
+3. List five major advantages of React
+	It is easy to learn;
+	React creates a VIRTUAL DOM in memory;
+	React only changes what needs to be changed;
+	It facilitates advanced maintenance and increases productivity;
+	React JS comes with a helpful developer toolset.
+
+
+4. what is the name of the Software Engineer that created React? Also, which company owns React?
+	Answer: The name of the engeneer is Jordan Walke and React belongs to Facebook.
+
+
+5. What are the notable differences between HTML & JSX? Give at least 3 of them.	
+	Answer: The  notable difference are:
+		We can implement JS directly in JSX;
+		All Tags Self-close in JSX;
+		In JSX with ClassName instead of Class, f in Javascript, Class is a key word.
+
+
+
+6. Why can’t browsers read JSX?
+
+Answer: Browsers cannot read JSX because there is no inherent implementation for the browser engines to read and understand it. The JSX file must be transformed into native javascript or HTML which browser can understand.
+
+
+
+============================================================================================================================
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
