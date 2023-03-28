@@ -9,8 +9,11 @@ import { render } from '@testing-library/react';
 function App() {
 return (
   render (   
-    <Main/>,
-    <Header/>
+    <div>
+      <Main/>
+      <Header/>
+    </div>
+    
   )
 );
 }
